@@ -26,7 +26,7 @@ class FormData(BaseModel):
 def send_email(data: FormData):
     try:
         sender_email = data.email
-        password = "crzl sicn ekoz iqqm"
+        password = "//////////////////"
         receiver_email = "23am040@kpriet.ac.in"
 
         subject = "New Form Submission"
